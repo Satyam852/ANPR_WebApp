@@ -1,0 +1,6 @@
+train: data_images/train
+val: data_images/train
+nc: 1
+names: [
+    'license_plate'
+]
