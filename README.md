@@ -69,3 +69,17 @@ Web Development: Develop the frontend using HTML and Bootstrap.
 
 
 Integration: Integrate the trained model into the web application and deploy.
+
+
+
+![Web-App](https://github.com/Satyam852/ANPR_WebApp/assets/83311648/bd8f1f4c-34ec-4bda-bade-a223a36b40e7)
+
+![image](https://github.com/Satyam852/ANPR_WebApp/assets/83311648/d60d0d68-bc7c-4a97-8595-106444fbab0e)
+
+
+
+**AFTER Using YOLOv5**
+
+![image](https://github.com/Satyam852/ANPR_WebApp/assets/83311648/bc8b4651-1ab0-466b-b631-3bbde3babf01)
+
+
